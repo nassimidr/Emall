@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones Pro",
+    "description": "Premium noise-canceling wireless headphones with 30-hour battery.",
+    "image": "https://i.pinimg.com/736x/93/62/f4/9362f4d62159b047e5be197deb0b3750.jpg",
+    "price": 199,
+    "originalPrice": 299,
+    "discount": 33,
+    "rating": 4.7,
+    "tags": ["Electronics", "Audio"],
+    "shopName": "Gadget Galaxy"
+  },
+  {
+    "id": "2",
+    "name": "Designer Sneakers",
+    "description": "Limited edition designer sneakers with premium materials.",
+    "image": "https://i.pinimg.com/736x/23/80/3b/23803b1f7076f07c3984385c4ac18285.jpg",
+    "price": 149,
+    "originalPrice": 199,
+    "discount": 25,
+    "rating": 4.4,
+    "tags": ["Fashion", "Shoes"],
+    "shopName": "Urban Threads"
+  },
+  {
+    "id": "3",
+    "name": "Organic Coffee Blend",
+    "description": "Premium organic coffee blend from single-origin beans.",
+    "image": "https://i.pinimg.com/736x/5f/35/55/5f3555bf6422554943400c0e792373c4.jpg",
+    "price": 24,
+    "originalPrice": 32,
+    "discount": 25,
+    "rating": 4.8,
+    "tags": ["Coffee", "Organic"],
+    "shopName": "Artisan Coffee"
+  }
+] 

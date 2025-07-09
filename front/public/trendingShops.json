@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Urban Threads",
+    "description": "Trendy streetwear and casual fashion for young adults.",
+    "image": "https://i.pinimg.com/736x/a3/83/3a/a3833a873330426daefda54d1b4d816c.jpg",
+    "rating": 4.5,
+    "tags": ["Fashion", "Streetwear", "Casual"],
+    "mallName": "Grand Plaza Mall",
+    "productCount": 150
+  },
+  {
+    "id": "2",
+    "name": "Gadget Galaxy",
+    "description": "Latest smartphones, laptops, and tech accessories.",
+    "image": "https://i.pinimg.com/736x/67/6d/5d/676d5dd864a05ca542a1b707d8a3738c.jpg",
+    "rating": 4.8,
+    "tags": ["Electronics", "Mobile", "Accessories"],
+    "mallName": "Tech Hub Mall",
+    "productCount": 300
+  },
+  {
+    "id": "3",
+    "name": "Artisan Coffee",
+    "description": "Premium coffee beans and brewing equipment.",
+    "image": "https://i.pinimg.com/736x/21/cf/72/21cf72c281264f006e5218b52dec0f6e.jpg",
+    "rating": 4.6,
+    "tags": ["Coffee", "Beverages", "Equipment"],
+    "mallName": "Grand Plaza Mall",
+    "productCount": 75
+  }
+] 

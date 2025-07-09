@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Grand Plaza Mall",
+    "description": "The largest shopping destination with over 200 stores and restaurants.",
+    "image": "https://i.pinimg.com/736x/bd/e0/15/bde01520d6b81f82327f6aba9e2a0cb8.jpg",
+    "location": "Downtown City",
+    "rating": 4.8,
+    "tags": ["Shopping", "Dining", "Entertainment"],
+    "shopCount": 200
+  },
+  {
+    "id": "2",
+    "name": "Fashion District",
+    "description": "Premium fashion brands and luxury boutiques in one place.",
+    "image": "https://i.pinimg.com/736x/83/c5/ee/83c5ee0dd96dffee8a32f760e7c5a807.jpg",
+    "location": "Fashion Avenue",
+    "rating": 4.6,
+    "tags": ["Fashion", "Luxury", "Boutique"],
+    "shopCount": 85
+  },
+  {
+    "id": "3",
+    "name": "Tech Hub Mall",
+    "description": "Electronics, gadgets, and tech accessories from top brands.",
+    "image": "https://i.pinimg.com/736x/9f/e3/dd/9fe3dd3169123a0870f376c1a5317500.jpg",
+    "location": "Silicon Valley",
+    "rating": 4.7,
+    "tags": ["Electronics", "Tech", "Gadgets"],
+    "shopCount": 120
+  }
+] 

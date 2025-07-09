@@ -1,0 +1,19 @@
+{
+  "navbar": {
+    "malls": "Centres commerciaux",
+    "shops": "Boutiques",
+    "activities": "Activités",
+    "blog": "Blog de style",
+    "login": "Connexion",
+    "language": "Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "arabic": "Arabe"
+  },
+  "home": {
+    "discover": "DÉCOUVREZ",
+    "your_perfect_style": "Votre style parfait",
+    "premium_fashion": "✨ Place de marché mode premium",
+    "description": "Achetez des vêtements premium dans des boutiques sélectionnées, découvrez votre style avec notre quiz IA et participez à des concours de mode exclusifs. Votre expérience shopping de luxe commence ici."
+  }
+} 

@@ -1,0 +1,24 @@
+{
+  "id": "1",
+  "name": "Veste en jean classique",
+  "description": "Veste en denim style vintage avec coupe moderne et tissu premium.",
+  "fullDescription": "Cette veste en jean vintage allie style intemporel et confort moderne. Taillée dans un denim de qualité, elle présente une coupe légèrement ample, parfaite pour les superpositions. Le style vintage est accentué par des boutons classiques, poches poitrine et un léger effet usé. Polyvalente et élégante au quotidien.",
+  "images": [
+    "https://i.pinimg.com/736x/f3/e6/97/f3e6971203c97781fc26e8ee782c995e.jpg",
+    "https://i.pinimg.com/736x/19/ad/c3/19adc36b674e7fff574a85e4479978cc.jpg",
+    "https://i.pinimg.com/736x/dc/75/6f/dc756f5f68e01d7c15aa2b896e448a1e.jpg",
+    "https://i.pinimg.com/736x/83/c5/ee/83c5ee0dd96dffee8a32f760e7c5a807.jpg"
+  ],
+  "price": 890,
+  "originalPrice": 1200,
+  "discount": 26,
+  "rating": 4.6,
+  "totalReviews": 128,
+  "tags": ["Denim", "Veste", "Casual", "Vintage"],
+  "shopName": "Urban Threads Rabat",
+  "shopId": "1",
+  "category": "Outerwear",
+  "brand": "Urban Classic Rabat",
+  "material": "Denim 100 % coton",
+  "care": "Lavable en machine à froid, sèche-linge doux"
+}

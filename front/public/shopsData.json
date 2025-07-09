@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Urban Threads Rabat",
+    "mallId": "1",
+    "description": "Mode urbaine tendance et vêtements casual pour jeunes adultes.",
+    "fullDescription": "Urban Threads Rabat est votre destination de choix à l'Arribat Center pour les dernières tendances en matière de streetwear. Nous proposons une sélection de marques locales et internationales avec des pièces allant du t-shirt graphique au jean slim, en passant par des sneakers uniques.",
+    "image": "https://i.pinimg.com/736x/a3/83/3a/a3833a873330426daefda54d1b4d816c.jpg",
+    "images": [
+      "https://i.pinimg.com/736x/a3/83/3a/a3833a873330426daefda54d1b4d816c.jpg",
+      "https://i.pinimg.com/736x/ec/c8/30/ecc830433c25708365713a744886421f.jpg",
+      "https://i.pinimg.com/736x/4e/89/43/4e8943acbf1a8b8920d0c7651e9cdcb9.jpg",
+      "https://i.pinimg.com/736x/66/69/3f/66693f2de1e5bd4338c21fc3dc83ec83.jpg"
+    ],
+    "location": "Arribat Center, Étage 1",
+    "address": "Arribat Center, Avenue Annakhil, Hay Riad, Rabat",
+    "phone": "+212 5 37 00 00 01",
+    "email": "contact@urbanthreads.ma",
+    "website": "https://urbanthreads.ma",
+    "rating": 4.5,
+    "totalReviews": 324,
+    "tags": ["Fashion", "Streetwear", "Casual", "Youth"],
+    "hours": {
+      "Monday - Thursday": "10:00 - 21:00",
+      "Friday - Saturday": "10:00 - 22:00",
+      "Sunday": "11:00 - 20:00"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/urbanthreads",
+      "instagram": "https://instagram.com/urbanthreads",
+      "twitter": "https://twitter.com/urbanthreads"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Urban Threads Rabat",
+    "mallId": "2",
+    "description": "Mode urbaine tendance et vêtements casual pour jeunes adultes.",
+    "fullDescription": "Urban Threads Rabat est votre destination de choix à l'Arribat Center pour les dernières tendances en matière de streetwear. Nous proposons une sélection de marques locales et internationales avec des pièces allant du t-shirt graphique au jean slim, en passant par des sneakers uniques.",
+    "image": "https://i.pinimg.com/736x/a3/83/3a/a3833a873330426daefda54d1b4d816c.jpg",
+    "images": [
+      "https://i.pinimg.com/736x/a3/83/3a/a3833a873330426daefda54d1b4d816c.jpg",
+      "https://i.pinimg.com/736x/ec/c8/30/ecc830433c25708365713a744886421f.jpg",
+      "https://i.pinimg.com/736x/4e/89/43/4e8943acbf1a8b8920d0c7651e9cdcb9.jpg",
+      "https://i.pinimg.com/736x/66/69/3f/66693f2de1e5bd4338c21fc3dc83ec83.jpg"
+    ],
+    "location": "Arribat Center, Étage 1",
+    "address": "Arribat Center, Avenue Annakhil, Hay Riad, Rabat",
+    "phone": "+212 5 37 00 00 01",
+    "email": "contact@urbanthreads.ma",
+    "website": "https://urbanthreads.ma",
+    "rating": 4.5,
+    "totalReviews": 324,
+    "tags": ["Fashion", "Streetwear", "Casual", "Youth"],
+    "hours": {
+      "Monday - Thursday": "10:00 - 21:00",
+      "Friday - Saturday": "10:00 - 22:00",
+      "Sunday": "11:00 - 20:00"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/urbanthreads",
+      "instagram": "https://instagram.com/urbanthreads",
+      "twitter": "https://twitter.com/urbanthreads"
+    }
+  }
+] 

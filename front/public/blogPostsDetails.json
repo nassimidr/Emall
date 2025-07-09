@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1",
+    "title": "10 Essential Styling Tips for the Perfect Casual Look",
+    "excerpt": "Maîtrisez l’art du style décontracté avec ces conseils simples et efficaces.",
+    "content": "<p>Créer un look casual demande équilibre et confiance...</p>",
+    "image": "https://i.pinimg.com/736x/5d/55/9d/5d559d45adb4f4b9e80f0a55961b7d0b.jpg",
+    "author": {
+      "name": "Emma Rodriguez",
+      "avatar": "/avatars/emma.jpg",
+      "bio": "Fashion stylist depuis 8 ans.",
+      "social": {
+        "instagram": "@emmarstyle"
+      }
+    },
+    "category": "Casual Wear",
+    "publishedAt": "2024-01-20T10:00:00Z",
+    "readTime": 8,
+    "tags": ["casual", "style", "conseils"]
+  },
+  {
+    "id": "2",
+    "title": "5 Must-Have Pieces for Your Capsule Wardrobe",
+    "excerpt": "Simplifiez votre dressing avec ces essentiels minimalistes.",
+    "content": "<p>Une garde-robe capsule change la vie...</p>",
+    "image": "https://i.pinimg.com/736x/27/7c/b5/277cb56b83b1877735a88017f9775b85.jpg",
+    "author": {
+      "name": "Lucas Mendez",
+      "avatar": "/avatars/lucas.jpg",
+      "bio": "Rédacteur mode chez TrendMag.",
+      "social": {
+        "instagram": "@lucas.mendez"
+      }
+    },
+    "category": "Minimalisme",
+    "publishedAt": "2024-02-12T14:00:00Z",
+    "readTime": 5,
+    "tags": ["capsule", "minimalisme", "mode"]
+  },
+  {
+    "id": "3",
+    "title": "Top 3 Looks pour Homme à Moins de 100€",
+    "excerpt": "Style abordable et moderne pour homme.",
+    "content": "<p>Vous n’avez pas besoin d’un gros budget pour bien vous habiller...</p>",
+    "image": "https://i.pinimg.com/736x/9d/5a/91/9d5a91dbaa222237c151d4ce5d7a0abb.jpg",
+    "author": {
+      "name": "Yassine Haddad",
+      "avatar": "/avatars/yassine.jpg",
+      "bio": "Blogueur lifestyle masculin.",
+      "social": {
+        "instagram": "@stylehaddad"
+      }
+    },
+    "category": "Homme",
+    "publishedAt": "2024-03-01T09:00:00Z",
+    "readTime": 4,
+    "tags": ["homme", "budget", "looks"]
+  },
+  {
+    "id": "4",
+    "title": "Comment Styliser une Robe Longue pour l'Été",
+    "excerpt": "La robe longue, un classique à réinventer chaque été.",
+    "content": "<p>Avec les bons accessoires, une robe longue devient une tenue complète...</p>",
+    "image": "https://i.pinimg.com/736x/f3/09/fe/f309fe09a8fa79a73978419cc14ff6be.jpg",
+    "author": {
+      "name": "Elham Sofiane",
+      "avatar": "/avatars/elham.jpg",
+      "bio": "Créatrice de contenu mode et beauté.",
+      "social": {
+        "instagram": "@elhamlook"
+      }
+    },
+    "category": "Été",
+    "publishedAt": "2024-03-12T13:00:00Z",
+    "readTime": 6,
+    "tags": ["été", "robe", "femme"]
+  },
+  {
+    "id": "5",
+    "title": "5 Idées de Tenues Bébé pour le Printemps",
+    "excerpt": "Des looks mignons et pratiques pour les tout-petits.",
+    "content": "<p>Les bébés aussi méritent style et confort...</p>",
+    "image": "https://i.pinimg.com/736x/a5/0a/61/a50a61cd7edc28b6b9c66f6d5b970e42.jpg",
+    "author": {
+      "name": "Sabrina Kh",
+      "avatar": "/avatars/sabrina.jpg",
+      "bio": "Styliste enfants freelance.",
+      "social": {
+        "instagram": "@minikidstyle"
+      }
+    },
+    "category": "Bébé",
+    "publishedAt": "2024-04-01T10:30:00Z",
+    "readTime": 3,
+    "tags": ["bébé", "printemps", "look"]
+  },
+  {
+    "id": "6",
+    "title": "Les Couleurs Tendance de la Saison",
+    "excerpt": "Du pastel au terracotta, les teintes stars de cette année.",
+    "content": "<p>Chaque saison apporte ses palettes. Voici celles à adopter...</p>",
+    "image": "https://i.pinimg.com/736x/67/6d/5d/676d5dd864a05ca542a1b707d8a3738c.jpg",
+    "author": {
+      "name": "Clara Nguyen",
+      "avatar": "/avatars/clara.jpg",
+      "bio": "Coloriste et experte mode.",
+      "social": {
+        "instagram": "@claracolor"
+      }
+    },
+    "category": "Tendances",
+    "publishedAt": "2024-03-21T17:00:00Z",
+    "readTime": 4,
+    "tags": ["couleurs", "tendance", "mode"]
+  },
+  {
+    "id": "7",
+    "title": "3 Astuces pour Mettre en Valeur Votre Maquillage Naturel",
+    "excerpt": "Less is more !",
+    "content": "<p>Le maquillage naturel est un art subtil. Voici comment le réussir...</p>",
+    "image": "https://i.pinimg.com/736x/21/cf/72/21cf72c281264f006e5218b52dec0f6e.jpg",
+    "author": {
+      "name": "Maya Torres",
+      "avatar": "/avatars/maya.jpg",
+      "bio": "Makeup artist & influenceuse beauté.",
+      "social": {
+        "instagram": "@mayaglow"
+      }
+    },
+    "category": "Beauté",
+    "publishedAt": "2024-02-18T18:00:00Z",
+    "readTime": 5,
+    "tags": ["maquillage", "naturel", "astuces"]
+  },
+  {
+    "id": "8",
+    "title": "Looks de Shopping en Centre Commercial : Inspirez-vous !",
+    "excerpt": "Des idées de tenues pour une virée entre amis ou en famille.",
+    "content": "<p>Pour le shopping, on veut être stylé et à l’aise...</p>",
+    "image": "https://i.pinimg.com/736x/9f/e3/dd/9fe3dd3169123a0870f376c1a5317500.jpg",
+    "author": {
+      "name": "Yara Khaled",
+      "avatar": "/avatars/yara.jpg",
+      "bio": "Blogueuse mode quotidienne.",
+      "social": {
+        "instagram": "@yarastylelife"
+      }
+    },
+    "category": "Casual Chic",
+    "publishedAt": "2024-01-25T11:00:00Z",
+    "readTime": 4,
+    "tags": ["shopping", "look", "mall"]
+  },
+  {
+    "id": "9",
+    "title": "5 Chaussures Incontournables pour l'Hiver",
+    "excerpt": "Alliez style et chaleur grâce à ces modèles.",
+    "content": "<p>Entre bottines, boots et baskets fourrées, voici notre sélection...</p>",
+    "image": "https://i.pinimg.com/736x/16/3d/65/163d65e96f6b2ee5f76ef617b2c66ecb.jpg",
+    "author": {
+      "name": "Marco DeLuca",
+      "avatar": "/avatars/marco.jpg",
+      "bio": "Rédacteur mode chez WinterLook.",
+      "social": {
+        "instagram": "@marcold"
+      }
+    },
+    "category": "Chaussures",
+    "publishedAt": "2024-02-02T08:00:00Z",
+    "readTime": 4,
+    "tags": ["hiver", "chaussures", "froid"]
+  },
+  {
+    "id": "10",
+    "title": "Accessoires Bébé Tendance 2024",
+    "excerpt": "Oui, même les tout-petits ont leurs accessoires stylés !",
+    "content": "<p>Des bonnets tricotés aux mini-sacs, voici les must-haves...</p>",
+    "image": "https://i.pinimg.com/736x/5a/81/cf/5a81cff1ffa5dfdc0d6790b39b2dfc4f.jpg",
+    "author": {
+      "name": "Sophie El Amrani",
+      "avatar": "/avatars/sophie.jpg",
+      "bio": "Spécialiste mode bébé & enfants.",
+      "social": {
+        "instagram": "@babylooks"
+      }
+    },
+    "category": "Enfants",
+    "publishedAt": "2024-03-09T15:00:00Z",
+    "readTime": 3,
+    "tags": ["bébé", "accessoires", "2024"]
+  }
+]

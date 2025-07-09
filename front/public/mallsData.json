@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "name": "Renard et Fils",
+    "description": "Un centre dynamique avec des boutiques modernes et variées.",
+    "fullDescription": "Ce centre commercial vous propose un cadre agréable pour vos achats, vos repas et vos sorties en famille. Il accueille plusieurs enseignes nationales et internationales.",
+    "image": "https://i.pinimg.com/736x/16/35/82/1635824adb85eecfae9e165d5805f370.jpg",
+    "images": [
+      "https://i.pinimg.com/736x/f3/e6/97/f3e6971203c97781fc26e8ee782c995e.jpg",
+      "https://i.pinimg.com/736x/48/69/57/486957558f4ec89428a47f9cb7bb9a9c.jpg",
+      "https://i.pinimg.com/736x/c2/11/15/c21115dc7aae6a59fed4a782ef967143.jpg"
+    ],
+    "location": "Toulon",
+    "address": "25 rue des Lilas, 83200 Toulon",
+    "phone": "+212 6 78 12 34 56",
+    "email": "info@renardfils.com",
+    "website": "https://renardfils.com",
+    "rating": 4.3,
+    "totalReviews": 1230,
+    "tags": ["Shopping", "Technologie", "Restauration", "Divertissement"],
+    "hours": {
+      "Lundi - Jeudi": "10:00 - 21:00",
+      "Vendredi - Samedi": "10:00 - 22:00",
+      "Dimanche": "11:00 - 20:00"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/renardfils",
+      "instagram": "https://instagram.com/renardfils",
+      "twitter": "https://twitter.com/renardfils"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Galeries Prestige",
+    "description": "Une expérience shopping haut de gamme avec vue panoramique.",
+    "fullDescription": "Galeries Prestige est le lieu idéal pour les amateurs de mode, de gastronomie et de détente. Avec ses restaurants et ses boutiques de luxe, c’est un lieu incontournable.",
+    "image": "https://i.pinimg.com/736x/48/69/57/486957558f4ec89428a47f9cb7bb9a9c.jpg",
+    "images": [
+      "https://i.pinimg.com/736x/48/69/57/486957558f4ec89428a47f9cb7bb9a9c.jpg",
+      "https://i.pinimg.com/736x/c2/11/15/c21115dc7aae6a59fed4a782ef967143.jpg",
+      "https://i.pinimg.com/736x/16/35/82/1635824adb85eecfae9e165d5805f370.jpg"
+    ],
+    "location": "Marrakech",
+    "address": "Avenue Mohammed VI, Marrakech",
+    "phone": "+212 5 24 43 21 11",
+    "email": "contact@galeriesprestige.ma",
+    "website": "https://galeriesprestige.ma",
+    "rating": 4.9,
+    "totalReviews": 1920,
+    "tags": ["Mode", "Luxe", "Technologie", "Divertissement"],
+    "hours": {
+      "Lundi - Jeudi": "10:00 - 21:00",
+      "Vendredi - Samedi": "10:00 - 22:00",
+      "Dimanche": "11:00 - 20:00"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/galeriesprestige",
+      "instagram": "https://instagram.com/galeriesprestige",
+      "twitter": "https://twitter.com/galeriesprestige"
+    }
+  },
+  {
+    "id": "3",
+    "name": "MegaMall Oasis",
+    "description": "Centre moderne avec espace enfants et cinéma.",
+    "fullDescription": "MegaMall Oasis propose un large choix de loisirs pour toute la famille : cinéma, espaces jeux, restaurants, et grandes enseignes à la mode.",
+    "image": "https://i.pinimg.com/736x/c2/11/15/c21115dc7aae6a59fed4a782ef967143.jpg",
+    "images": [
+      "https://i.pinimg.com/736x/f3/e6/97/f3e6971203c97781fc26e8ee782c995e.jpg",
+      "https://i.pinimg.com/736x/16/35/82/1635824adb85eecfae9e165d5805f370.jpg",
+      "https://i.pinimg.com/736x/c2/11/15/c21115dc7aae6a59fed4a782ef967143.jpg"
+    ],
+    "location": "Fès",
+    "address": "Avenue Hassan II, Fès",
+    "phone": "+212 5 35 65 43 21",
+    "email": "info@megamalloasis.ma",
+    "website": "https://megamalloasis.ma",
+    "rating": 4.6,
+    "totalReviews": 1450,
+    "tags": ["Famille", "Divertissement", "Restauration", "Shopping"],
+    "hours": {
+      "Lundi - Jeudi": "10:00 - 21:00",
+      "Vendredi - Samedi": "10:00 - 22:00",
+      "Dimanche": "11:00 - 20:00"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/megamalloasis",
+      "instagram": "https://instagram.com/megamalloasis",
+      "twitter": "https://twitter.com/megamalloasis"
+    }
+  }
+  
+
+]

@@ -1,0 +1,19 @@
+{
+  "navbar": {
+    "malls": "Malls",
+    "shops": "Shops",
+    "activities": "Activities",
+    "blog": "Style Blog",
+    "login": "Login",
+    "language": "Language",
+    "english": "English",
+    "french": "Français",
+    "arabic": "العربية"
+  },
+  "home": {
+    "discover": "DISCOVER",
+    "your_perfect_style": "Your Perfect Style",
+    "premium_fashion": "✨ Premium Fashion Marketplace",
+    "description": "Shop premium clothing from curated boutiques, discover your style with our AI quiz, and join exclusive fashion competitions. Your luxury clothing journey starts here."
+  }
+} 
